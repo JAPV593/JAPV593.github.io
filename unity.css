@@ -7,14 +7,14 @@ margin: 20px auto;
 
 header {
 	background-color: #303030;
-	color: :#fff;
+	color :#fff;
 	padding: 20px;
 }
-/*Eliminar las viñetas del menú*/
+
 header ul {
 	list-style: none;
 }
-/*Eliminar el subrayado de los enlaces*/
+
 header ul li a {
 	color: #fff;
 	text-decoration: none;
